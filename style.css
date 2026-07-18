@@ -58,6 +58,7 @@ nav ul li a:hover{
   padding: 20px;
   /* background-color: #666; */
   gap: 20px;
+  flex-wrap:wrap;
 }
 
 .card{
